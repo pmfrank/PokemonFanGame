@@ -399,3 +399,8 @@ Gender = Male
 BaseMoney = 100
 BattleBGM = Battle Champion
 VictoryBGM = Battle victory leader
+#-------------------------------
+[TESTTRAINER]
+Name = Kimmy
+Gender = Female
+BaseMoney = 50
