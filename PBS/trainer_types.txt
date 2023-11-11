@@ -401,6 +401,6 @@ BattleBGM = Battle Champion
 VictoryBGM = Battle victory leader
 #-------------------------------
 [TESTTRAINER]
-Name = Kimmy
+Name = Test Trainer
 Gender = Female
 BaseMoney = 50

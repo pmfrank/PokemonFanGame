@@ -1,8 +1,9 @@
 # Resources Used
 
 ## Main
-- [Pokemon Essentials v21.1 2023-07-30](https://reliccastle.com/essentials/)
+- [Pokemon Essentials v21.1 2023-07-30](https://reliccastle.com/essentials/) By Maruno
 
 ## Plugins
-- [v21.1 Hotfixes](https://reliccastle.com/resources/1376/)
-- [Multiple Protagonists 5.0.0](https://github.com/usabhinav/multiple-protagonists/tree/v5.0.0/Plugins/Multiple%20Protagonists)
+- [v21.1 Hotfixes](https://github.com/Maruno17/pokemon-essentials) By Maruno
+- [Multiple Protagonists 5.0.0](https://reliccastle.com/resources/280/) By NettoHikari
+- [Unreal Time System 1.1.1](https://www.pokecommunity.com/showthread.php?t=285831) By FL

@@ -117,8 +117,9 @@ Pokemon = CHARIZARD,63
 Pokemon = BLASTOISE,63
     Item = SITRUSBERRY
 #-------------------------------
-[TESTTRAINER]
+[TESTTRAINER, Kimmy]
 LoseText = You're a big meanie!
 Pokemon = PIKACHU, 5
 Pokemon = RATTATA, 5
 Pokemon = DRATINI, 6
+    Shadow = true
